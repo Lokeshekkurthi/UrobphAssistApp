@@ -8,7 +8,7 @@ env/
 .env
 
 # Environment variables
-.env
+# .env is removed from ignore at user's request
 .env.*
 !.env.example
 
